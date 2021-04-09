@@ -1,8 +1,6 @@
 # Hello! My name is Marwa Khalid. 👋🏼
-___________________________________________
  
  ## About Me
- _____________________________________________
  •	🎓 Studying Computer Science at Concordia University
  
  •	🎮 🔐 Passionate about Game Development and Cybersecurity
@@ -12,13 +10,11 @@ ___________________________________________
  •	💻 Currently self-learning Python
  
  ## My Skills
- ______________
   •	Data Structure
   
   •	Python, Java and C++
  
  ## Lets get in Contact! 
- _________________________
  • LinkedIn:
  
  • Email: 
