@@ -9,14 +9,14 @@
  
  •	💻 Currently self-learning Python
  
- ## My Skills
+ ## My Skills :space_invader:
   •	Data Structure
   
   •	Python, Java and C++
  
  ## Lets get in Contact! 
- • [LinkedIn](https://www.linkedin.com/in/marwa-khalid333/)
+ • :briefcase: [LinkedIn](https://www.linkedin.com/in/marwa-khalid333/)
  
- • [Email](khalidmarwa786@gmail.com)
+ • :e-mail: [Email](khalidmarwa786@gmail.com)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaKhalid)](https://github.com/anuraghazra/github-readme-stats)
