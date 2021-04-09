@@ -15,8 +15,8 @@
   •	Python, Java and C++
  
  ## Lets get in Contact! 
- • LinkedIn: [@marwa-khalid333](https://www.linkedin.com/in/marwa-khalid333/)
+ • [LinkedIn](https://www.linkedin.com/in/marwa-khalid333/)
  
- • Email: [@khalidmarwa786](khalidmarwa786@gmail.com)
+ • [Email](khalidmarwa786@gmail.com)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaKhalid)](https://github.com/anuraghazra/github-readme-stats)
