@@ -3,7 +3,7 @@
  ## About Me
  •	🎓 Studying Computer Science at Concordia University
  
- •	🎮 🔐 Passionate about Game Development and Cybersecurity
+ •	🎮 🔐 Passionate about Game Development, Cybersecurity, Programming and Project Management
  
  • 🏠 Based in Montréal, Canada
  
