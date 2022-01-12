@@ -7,7 +7,6 @@
  
  • 🏠 Based in Montréal, Canada
  
- •	💻 Currently self-learning Python
  
  ## My Skills :space_invader:
   •	Data Structure
