@@ -12,7 +12,7 @@
  ## My Skills :space_invader:
   •	Data Structure
   
-  •	Python (in-process), Java and C++
+  •	Python, Java and C++
  
  ## Lets get in Contact! 
  • :briefcase: [LinkedIn](https://www.linkedin.com/in/marwa-khalid333/)
