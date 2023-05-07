@@ -11,3 +11,8 @@ Probably somewhere doing leetcode or applying for jobs.
 <a href="https://www.linkedin.com/in/marwa-khalid333/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+##
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwaKhalid&theme=tokyonight&layout=compact&hide=css" height="170" />
+
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarwaKhalid&&show_icons=true&theme=radical" />
