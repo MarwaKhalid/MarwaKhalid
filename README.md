@@ -7,7 +7,7 @@
 </a>
 
 ## Projects
-- Machine Learning
+- Image Processing
   - <a href="https://github.com/AliZ786/COMP-478">Comparison of Brain Tumor MRI Detection with Neural Networks vs. Traditional Machine Learning Models</a>
 - Applications
   - <a href="https://github.com/SamanthaGuillemette/SOEN490">Xplorify</a>
