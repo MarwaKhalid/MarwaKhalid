@@ -11,6 +11,7 @@
   - <a href="https://github.com/AliZ786/COMP-478">Comparison of Brain Tumor MRI Detection with Neural Networks vs. Traditional Machine Learning Models</a>
 - Applications
   - <a href="https://github.com/SamanthaGuillemette/SOEN490">Xplorify</a>
+    - <a href="https://youtu.be/nwFgiZpvl0E">Video Demonstration</a>
   - <a href="https://github.com/SamanthaGuillemette/SOEN390">COVID-19 Tracking App</a>
 - Data Science
   - <a href="https://github.com/MarwaKhalid/SOEN363-Project">Relational Data and NoSQL Systems</a>
