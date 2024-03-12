@@ -15,4 +15,4 @@
   - <a href="https://github.com/SamanthaGuillemette/SOEN390">COVID-19 Tracking App</a>
 - Data Science
   - <a href="https://github.com/MarwaKhalid/SOEN363-Project">Relational Data and NoSQL Systems</a>
-  - <a href="https://github.com/Zafirmk/Project_353">Health Facility Employee Status Tracking System (HFESTS)</a>
+  - <a href="https://github.com/MarwaKhalid/Project_353">Health Facility Employee Status Tracking System (HFESTS)</a>
